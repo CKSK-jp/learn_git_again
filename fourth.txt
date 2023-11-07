@@ -1,0 +1,7 @@
+ckskan@KanPC:~/learn_git_again$ git config --global --list
+user.name=cksk-jp
+user.email=carlson.ksk@gmail.com
+init.defaultbranch=main
+color.ui=auto
+pull.rebase=false
+core.pager=
