@@ -3,10 +3,22 @@
 Answer the following questions:
 
 - What ***git*** command creates a branch?
-
-git branch creating-new-branch
-
+//
+  git branch "name of new branch"
+  or
+  git checkout -b "name of new branch"
+//
 - What is the difference between a fast-forward and recursive merge?
+
+
 - What ***git*** command changes to another branch?
+//
+  git checkout "branch name"
+//
 - What ***git*** command deletes a branch?
+//
+  for merged branches: git branch -d "name of branch" 
+  for unmerged branches: git branch -D "name of branch" 
+  *** cannot be on the said branch to be deleted to use this command ***
+//
 - How do merge conflicts happen?
