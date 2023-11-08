@@ -1,0 +1,12 @@
+## **Part I**
+
+Answer the following questions:
+
+- What ***git*** command creates a branch?
+
+git branch creating-new-branch
+
+- What is the difference between a fast-forward and recursive merge?
+- What ***git*** command changes to another branch?
+- What ***git*** command deletes a branch?
+- How do merge conflicts happen?
