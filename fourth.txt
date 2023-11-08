@@ -5,3 +5,5 @@ init.defaultbranch=main
 color.ui=auto
 pull.rebase=false
 core.pager=
+
+conflict
